@@ -1,0 +1,132 @@
+.intro {
+    display: flex;
+    height: 77vh;
+    margin-top: 6rem;
+}
+
+.i-left {
+    display: flex;
+    position: relative;
+    flex: 1;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.i-name {
+    display: flex;
+    flex-direction: column;
+}
+
+.i-name>:nth-child(1) {
+    color: var(--lilac);
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+.i-name>:nth-child(2) {
+    color: var(--card);
+    font-size: 3rem;
+}
+
+.i-name>:nth-child(3) {
+    font-weight: 100;
+    font-size: 18px;
+    color: var(--color);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.i-button {
+    width: 6rem;
+    height: 2rem;
+}
+
+.i-icons {
+    margin-top: 3rem;
+    display: flex;
+    gap: 50px;
+    size: 20px;
+    color: var(--lilac);
+
+}
+
+.i-icons>* {
+    transform: scale(2.5);
+}
+
+.i-icons>*:hover {
+    cursor: pointer;
+}
+
+.i-a {
+    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(193, 144, 193);
+    text-decoration: none;
+}
+
+.i-a:hover {
+    color: var(--color);
+}
+
+.i-right {
+    flex: 1;
+    position: relative;
+}
+
+.i-right>* {
+    position: absolute;
+    z-index: 1;
+}
+
+.i-right> :nth-child(2) {
+    transform: scale(1);
+    left: 68%;
+    top: -7%;
+}
+
+
+.i-right> :nth-child(3) {
+    transform: scale(1);
+    left: 8%;
+}
+
+.i-right> :nth-child(4) {
+    transform: scale(1);
+    left: -2%;
+    border-radius: 50%;
+    padding: 0;
+}
+
+.i-right> :nth-child(1) {
+    transform: scale(0.67);
+    top: -9%;
+    left: -14%;
+    padding: 0;
+}
+
+.vector3 {
+    width: 700px;
+}
+
+.crown {
+    width: 10px !important;
+    top: -4rem;
+    left: 20rem;
+}
+
+.i-right .thumbs {
+    bottom: 10rem !important;
+}
+
+.blur {
+    position: absolute;
+    width: 22rem;
+    height: 14rem;
+    border-radius: 50%;
+    z-index: -9;
+    background: #edd0ff;
+    filter: blur(212px);
+    top: -18%;
+    left: 56%;
+    filter: blur(72px);
+}

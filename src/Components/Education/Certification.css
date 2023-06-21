@@ -1,0 +1,15 @@
+.g-4 {
+    background: var(--bg) !important;
+    height: 40rem;
+    padding-top: 10px;
+    padding-left: 5rem;
+}
+
+.card3 {
+    height: 18rem !important;
+    font-size: 10px !important;
+}
+
+.h1-cert {
+    text-align: center;
+}

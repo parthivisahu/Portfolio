@@ -1,0 +1,44 @@
+:root {
+    --bg: #012A36;
+    --card1: #3a3d80;
+    --card2: rgb(126, 82, 160);
+    --lilac: #D295BF;
+    --color: #E6BCCD;
+    --box-shadow: 0px 19px 60px rgba(211, 206, 206, 0.08);
+    --smboxShadow: -79px 51px 60px rgba(0, 0, 0, 0.08);
+
+    --container-width-lg: 75%;
+    --container-width-md: 86%;
+    --container-width-ms: 90%;
+
+    --transition: all 400ms ease;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.App {
+    padding: 0.5rem 3.5rem;
+    overflow: hidden;
+    background-color: #012A36;
+    color: #f9e0ea;
+}
+
+.button {
+    border-radius: 34px;
+    border: none;
+    color: var(--bg);
+    font-weight: bold;
+    font-size: 16px;
+    padding: 10px;
+    background: linear-gradient(180deg, var(--color) 26.71%, var(--lilac) 99.36%);
+    box-shadow: 0px 10px 10px 3px rgba(242, 110, 246, 0.293);
+}
+
+.button:hover {
+    background: linear-gradient(180deg, rgba(245, 139, 222, 0.582)26.71%, rgba(199, 125, 183, 0.9) 99.36%);
+    cursor: pointer;
+    color: white;
+    border: 1 px solid var(--card2);
+}
