@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.d033d714.css",
+    "main.js": "/Portfolio/static/js/main.b2be0f3c.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/project5.png": "/Portfolio/static/media/project5.36cca308823afd93a435.png",
+    "static/media/project1.png": "/Portfolio/static/media/project1.c362a6847476bef72ebd.png",
+    "static/media/project4.png": "/Portfolio/static/media/project4.86e4224fab6b7b3051c6.png",
+    "static/media/certificate2.png": "/Portfolio/static/media/certificate2.8b5063ca890dd720aff2.png",
+    "static/media/vector3.png": "/Portfolio/static/media/vector3.d358f777927cf0d1385c.png",
+    "static/media/resume.pdf": "/Portfolio/static/media/resume.3d8434902dc7ae7ec4cf.pdf",
+    "static/media/project3.png": "/Portfolio/static/media/project3.c3ccc4662c79d1ddacdf.png",
+    "static/media/college.jpeg": "/Portfolio/static/media/college.05dd21ec45607830eace.jpeg",
+    "static/media/certificate1.png": "/Portfolio/static/media/certificate1.738f628c8714a2aca4a6.png",
+    "static/media/certificate5.png": "/Portfolio/static/media/certificate5.4c266de12653ff5b3ad5.png",
+    "static/media/certificate4.png": "/Portfolio/static/media/certificate4.abf810ccbe403def1a84.png",
+    "static/media/project2.png": "/Portfolio/static/media/project2.763af03ed8d9ac21f63e.png",
+    "static/media/certificate6.png": "/Portfolio/static/media/certificate6.1ba15c5e45b41444f273.png",
+    "static/media/certificate3.png": "/Portfolio/static/media/certificate3.0b75b46edc9168861ff7.png",
+    "static/media/project6.png": "/Portfolio/static/media/project6.75ffc57f8be887c3c1c5.png",
+    "static/media/glassesemoji.png": "/Portfolio/static/media/glassesemoji.a08bdab12e8eb56a6874.png",
+    "static/media/thumbup.png": "/Portfolio/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/Portfolio/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heart.png": "/Portfolio/static/media/heart.26b1b6ed5e0e44083b28.png",
+    "static/media/crown.png": "/Portfolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/glasses.png": "/Portfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "static/media/school2.jpg": "/Portfolio/static/media/school2.d762a2daec2ca39f9776.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.d033d714.css.map": "/Portfolio/static/css/main.d033d714.css.map",
+    "main.b2be0f3c.js.map": "/Portfolio/static/js/main.b2be0f3c.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d033d714.css",
+    "static/js/main.b2be0f3c.js"
+  ]
+}
